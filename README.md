@@ -1,4 +1,4 @@
-### Oi! Sou Josiel Nilton Pereira
+### Olá, seja bem vindo!
 
 - 💼 Estou atuando na area de Recursos Humanos com Power BI, relatórios e consultads SQL
 - 🖥️ Análise e Desenvolvimento de Sistemas na Estácio.
