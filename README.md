@@ -11,9 +11,11 @@
   <a href="https://github.com/josielnp">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=josielnp&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielnp&layout=compact&langs_count=7&theme=highcontrast"/>
-    </div>##
+    </div>
+ 
   ##
-  <img align="right" alt="Rafa-pic" height="100" style="border-radius:50px;" src="https://i.makeagif.com/media/9-07-2017/K9hDg0.gif">
+  
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/S-LcNRcGua0AAAAC/rock-rock-and-roll.gif">
 
                                                                                   
                                                                                 
