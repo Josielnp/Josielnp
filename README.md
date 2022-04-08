@@ -1,5 +1,7 @@
 ### Olá, seja bem vindo!
 
+![giphy](https://c.tenor.com/AWTRfDyw-JMAAAAd/rock-and-roll-ramones.gif)
+
 - 💼 Estou atuando na area de Recursos Humanos com Power BI, relatórios e consultads SQL
 - 🖥️ Análise e Desenvolvimento de Sistemas na Estácio.
 - 🖥️ JAVA, HTML, CSS, JAVASCRIPT
@@ -13,8 +15,5 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josielnp&layout=compact&langs_count=7&theme=highcontrast"/>
     </div>
   
-  ##
-  <img align="right" alt="Rafa-pic" height="180" style="border-radius:50px;" src="https://c.tenor.com/AWTRfDyw-JMAAAAd/rock-and-roll-ramones.gif">
-
-                                                                                  
+                                                                                    
                                                                                 
